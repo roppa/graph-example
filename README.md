@@ -1,2 +1,3 @@
-# graph-example
-Example Graph data structure
+# Graph Example
+
+Example Graph data structure. Actually a DAG.

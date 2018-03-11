@@ -1,0 +1,25 @@
+{
+  "name": "graph-example",
+  "version": "1.0.0",
+  "description": "Example graph data structure",
+  "main": "graph.js",
+  "scripts": {
+    "test": "nyc tape graph.spec.js"
+  },
+  "keywords": [
+    "graph",
+    "data",
+    "structure"
+  ],
+  "author": "Mark Robson mark.o.robson@gmail.com",
+  "license": "MIT",
+  "devDependencies": {
+    "nyc": "11.4.1",
+    "tape": "4.9.0"
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "github.com:roppa/graph-example.git"
+  }
+}
