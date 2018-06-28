@@ -1,3 +1,3 @@
-# Graph Example
+# Graph Examples
 
-Example Graph data structure. Actually a DAG.
+First in the series is a DAG - [Directed Acyclic Graph](https://en.wikipedia.org/wiki/Directed_acyclic_graph) data structure.
